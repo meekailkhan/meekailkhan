@@ -1,4 +1,4 @@
-## Hi there, I'm @meekailkhan! 👋
+# Hi there, I'm @meekailkhan! 👋
 
 👀 I'm passionate about JavaScript and currently diving deep into the MERN stack.
 
