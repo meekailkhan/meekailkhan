@@ -15,4 +15,4 @@
 ### Fun Fact:
 ⚡ Fun fact: I once built a chatbot that speaks in movie quotes!
 
-Looking forward to connecting and creating awesome things together! 😄
+
