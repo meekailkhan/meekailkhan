@@ -4,7 +4,7 @@
 👀 I'm passionate about JavaScript and currently diving deep into the MERN stack.
 
 ### What I'm Up To:
-- Learning Next.js and React.js to level up my skills.
+- Learning Nest.js and React.js to level up my skills.
 - Working on a personal project using the MERN stack to create a dynamic web application.
 
 ### Collaboration Opportunities:
