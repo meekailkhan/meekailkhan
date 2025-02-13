@@ -13,7 +13,6 @@
 ### Let's Connect:
 📫 Reach me at [meekailkhan123aar@email.com](meekailkhan123aar@email.com) or [LinkedIn](https://www.linkedin.com/in/meekail-aslam-1a1a8726b/).
 
-### Fun Fact:
-⚡ Fun fact: I once built a chatbot that speaks in movie quotes!
+
 
 
