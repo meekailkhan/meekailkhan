@@ -1,5 +1,4 @@
 # Hi there, I'm @meekailkhan! 👋 
-![GitHub Streak](https://streak-stats.demolab.com/?user=meekailkhan&theme=dark&hide_border=true)
 
 
 👀 I'm passionate about JavaScript and currently diving deep into the MERN stack.
