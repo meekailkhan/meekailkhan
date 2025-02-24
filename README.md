@@ -20,6 +20,10 @@
 ### Let's Connect:
 📫 Reach me at [meekailkhan123aar@email.com](meekailkhan123aar@email.com) or [LinkedIn](https://www.linkedin.com/in/meekail-aslam-1a1a8726b/).
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekailkhan&show_icons=true&locale=en&layout=compact" alt="meekailkhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meekailkhan&" alt="meekailkhan" /></p>
+
 
 
 
