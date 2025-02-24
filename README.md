@@ -8,6 +8,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meekailkhan&label=Profile%20views&color=0e75b6&style=flat" alt="m-mahir-khan" /> </p>
 
+
+
 👀 I'm passionate about JavaScript and currently diving deep into the MERN stack.
 
 ### What I'm Up To:
@@ -17,13 +19,23 @@
 ### Collaboration Opportunities:
 💞 I'm looking to collaborate with experts in Next.js and React.js to build exciting projects together.
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekailkhan&show_icons=true&theme=radical)
+
+
 ### Let's Connect:
 📫 Reach me at [meekailkhan123aar@email.com](meekailkhan123aar@email.com) or [LinkedIn](https://www.linkedin.com/in/meekail-aslam-1a1a8726b/).
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meekailkhan&theme=github-dark)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekailkhan&show_icons=true&locale=en&layout=compact" alt="meekailkhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meekailkhan&" alt="meekailkhan" /></p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=meekailkhan&theme=dark&hide_border=true" alt="meekailkhan" />
+</p>
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=meekailkhan&theme=radical)
 
 
 
