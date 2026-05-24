@@ -1,41 +1,66 @@
 <h1 align="center">Hi 👋, I'm Meekail</h1>
-<h3 align="center">A Backend & Devops Transtion Engineer </h3>
-<!--   my-header-img -->
+<h3 align="center">Backend Engineer & DevSecOps Enthusiast</h3>
 
-
-<a href=#><img src="contributions.svg"></a>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meekailkhan&label=Profile%20views&color=0e75b6&style=flat" alt="m-mahir-khan" /> </p>
-
-
-
-👀 I'm passionate about Golang and cloud native sytems and currently diving deep into the DevSecOps.
-
-### What I'm Up To:
-- Learning Terraform and Ansible to level up my skills.
-- Working on a personal project using the golang and typescript stack to create a dynamic web application.
-
-### Collaboration Opportunities:
-💞 I'm looking to collaborate with experts in Golang and Cloud Infra to build a complete solution together.
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekailkhan&show_icons=true&theme=radical)
-
-
-### Let's Connect:
-📫 Reach me at [meekailkhan123aar@email.com](meekailkhan123aar@email.com) or [LinkedIn](https://www.linkedin.com/in/meekail-aslam-1a1a8726b/).
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meekailkhan&theme=github-dark)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meekailkhan&show_icons=true&locale=en&layout=compact" alt="meekailkhan" /></p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=meekailkhan&theme=dark&hide_border=true" alt="meekailkhan" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=meekailkhan&label=Profile%20views&color=00ff87&style=flat" alt="meekailkhan" />
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=meekailkhan&theme=radical)
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+Passionate about **Golang**, **cloud-native systems**, and building infrastructure that scales.  
+Currently diving deep into **DevSecOps** — bridging the gap between development velocity and operational security.
+
+---
+
+## 🔷 Backend & Go
+`Go/Golang` `Node.js` `Express.js` `NestJS` `REST APIs` `tRPC` `Apache Kafka`
+
+## ☁️ Cloud & DevOps
+`Docker` `Docker Swarm` `Kubernetes` `AWS (ECS · ECR · Lambda · Parameter Store)` `IaC in Go`
+
+## 🐧 Linux & Systems
+`systemd` `journalctl` `top/htop` `netstat/ss` `tcpdump` `permissions`
+
+## 🌐 Networking
+`DNS` `TCP/UDP` `HTTP/HTTPS` `TLS` `Load Balancing` `NAT` `nginx` `Reverse Proxy`
+
+## 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB` `Supabase` `Neon`
+
+## ⚙️ CI/CD & Tooling
+`GitHub Actions` `GitLab Runners` `Jenkins` `Git` `Postman` `npm` `bun`
+
+## ⚛️ Frontend (bonus)
+`TypeScript` `React.js` `SvelteKit` `Next.js` `Tailwind CSS` `React Native (Expo)`
+
+---
+
+### 🔭 What I'm Up To
+- 📚 Levelling up with **Terraform** and **Ansible** for infrastructure automation
+- 🛠 Building a personal project with **Go + TypeScript** full-stack
+- 🔐 Deep-diving into **DevSecOps** — shifting security left in the pipeline
+
+---
+
+### ⎈ Certification Roadmap
+
+> **🎯 Next Target — Certified Kubernetes Administrator (CKA)**  
+> Pursuing the CNCF CKA exam to formalize my Kubernetes expertise — cluster setup, workload management, networking, storage, and security hardening.
+
+| Status | Cert | Focus |
+|--------|------|-------|
+| ✅ Foundation | Kubernetes Hands-on | Docker · K8s · ECS in production |
+| 🔄 In Future | **CKA** | Cluster admin, RBAC, networking policies, kubeadm |
+| 🎯 In Future | CKS / CKAD | Kubernetes Security Specialist or App Developer |
+
+---
+
+### 💞 Open to Collaborate
+Looking to pair with engineers working on **Golang backends**, **cloud infrastructure**, or **DevSecOps pipelines**.
+
+
+### 📫 Let's Connect
+📧 [meekailkhan123aar@email.com](mailto:meekailkhan123aar@email.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/meekail-aslam-1a1a8726b/)
 
 
 
