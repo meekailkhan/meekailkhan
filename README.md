@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meekail</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Backend & Devops Transtion Engineer </h3>
 <!--   my-header-img -->
 
 
@@ -10,14 +10,14 @@
 
 
 
-👀 I'm passionate about JavaScript and currently diving deep into the MERN stack.
+👀 I'm passionate about Golang and cloud native sytems and currently diving deep into the DevSecOps.
 
 ### What I'm Up To:
-- Learning Nest.js and React.js to level up my skills.
-- Working on a personal project using the MERN stack to create a dynamic web application.
+- Learning Terraform and Ansible to level up my skills.
+- Working on a personal project using the golang and typescript stack to create a dynamic web application.
 
 ### Collaboration Opportunities:
-💞 I'm looking to collaborate with experts in Next.js and React.js to build exciting projects together.
+💞 I'm looking to collaborate with experts in Golang and Cloud Infra to build a complete solution together.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meekailkhan&show_icons=true&theme=radical)
