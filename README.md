@@ -13,10 +13,10 @@ Currently diving deep into **DevSecOps** — bridging the gap between developmen
 ---
 
 ## 🔷 Backend & Go
-`Go/Golang` `Node.js` `Express.js` `NestJS` `REST APIs` `tRPC` `Apache Kafka`
+`Go/Golang` `Gin/Go Framework` `Echo/Go Framework` `Node.js` `Express.js` `NestJS` `REST APIs` `tRPC` `Apache Kafka`
 
 ## ☁️ Cloud & DevOps
-`Docker` `Docker Swarm` `Kubernetes` `AWS (ECS · ECR · Lambda · Parameter Store)` `IaC in Go`
+`Docker` `Docker Swarm` `Kubernetes` `AWS (ECS · ECR · Lambda · Parameter Store)` `IaC in Go` `Terraform`
 
 ## 🐧 Linux & Systems
 `systemd` `journalctl` `top/htop` `netstat/ss` `tcpdump` `permissions`
@@ -25,7 +25,7 @@ Currently diving deep into **DevSecOps** — bridging the gap between developmen
 `DNS` `TCP/UDP` `HTTP/HTTPS` `TLS` `Load Balancing` `NAT` `nginx` `Reverse Proxy`
 
 ## 🗄️ Databases
-`PostgreSQL` `MySQL` `MongoDB` `Supabase` `Neon`
+`PostgreSQL` `MySQL` `MongoDB` `Supabase` `Neon` `MongoDB` `Elastic Search`
 
 ## ⚙️ CI/CD & Tooling
 `GitHub Actions` `GitLab Runners` `Jenkins` `Git` `Postman` `npm` `bun`
